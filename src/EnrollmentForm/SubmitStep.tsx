@@ -1,6 +1,5 @@
 import React from 'react';
 import { Card, Container, Divider, Header, Form } from 'semantic-ui-react'
-import { ConditionProps } from '../interfaces/interfaces';
 import { Field } from 'formik';
 
 const SubmitStep: React.FC = () => {
