@@ -1,0 +1,361 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test Links 1`] = `
+<form
+  className="ui form"
+  onSubmit={[Function]}
+>
+  <div
+    className="ui container"
+  >
+    <h2
+      className="ui header"
+    >
+      Personal Information
+    </h2>
+    <div
+      className="field"
+    >
+      <label>
+        First Name
+      </label>
+      <input
+        id="firstName"
+        name="firstName"
+        onBlur={[Function]}
+        onChange={[Function]}
+        placeholder="First Name"
+        value=""
+      />
+      <div />
+    </div>
+    <div
+      className="field"
+    >
+      <label>
+        Last Name
+      </label>
+      <input
+        id="lastName"
+        name="lastName"
+        onBlur={[Function]}
+        onChange={[Function]}
+        placeholder="Last Name"
+        value=""
+      />
+      <div />
+    </div>
+    <div
+      className="field"
+    >
+      <label>
+        Email
+      </label>
+      <input
+        id="email"
+        name="email"
+        onBlur={[Function]}
+        onChange={[Function]}
+        placeholder="Email"
+        value=""
+      />
+      <div />
+    </div>
+    <div
+      className="field"
+    >
+      <label>
+        Address
+      </label>
+      <input
+        id="address"
+        name="address"
+        onBlur={[Function]}
+        onChange={[Function]}
+        placeholder="Address"
+        value=""
+      />
+      <div />
+    </div>
+    <div
+      className="field"
+    >
+      <label>
+        Birthdate
+      </label>
+      <input
+        id="birthdate"
+        name="birthdate"
+        onBlur={[Function]}
+        onChange={[Function]}
+        placeholder="Birthdate"
+        type="date"
+        value=""
+      />
+    </div>
+  </div>
+  <div
+    className="ui divider"
+  />
+  <div
+    className="row"
+  >
+    <button
+      className="ui disabled button"
+      disabled={true}
+      onClick={[Function]}
+      tabIndex={-1}
+      type="button"
+    >
+      Preview
+    </button>
+    <button
+      className="ui button"
+      onClick={[Function]}
+      type="button"
+    >
+      Next
+    </button>
+  </div>
+</form>
+`;
+
+exports[`Test Links 2`] = `
+<form
+  className="ui form"
+  onSubmit={[Function]}
+>
+  <div
+    className="ui container"
+  >
+    <h2
+      className="ui header"
+    >
+      Personal Information
+    </h2>
+    <div
+      className="field"
+    >
+      <label>
+        First Name
+      </label>
+      <input
+        id="firstName"
+        name="firstName"
+        onBlur={[Function]}
+        onChange={[Function]}
+        placeholder="First Name"
+        value=""
+      />
+      <div />
+    </div>
+    <div
+      className="field"
+    >
+      <label>
+        Last Name
+      </label>
+      <input
+        id="lastName"
+        name="lastName"
+        onBlur={[Function]}
+        onChange={[Function]}
+        placeholder="Last Name"
+        value=""
+      />
+      <div />
+    </div>
+    <div
+      className="field"
+    >
+      <label>
+        Email
+      </label>
+      <input
+        id="email"
+        name="email"
+        onBlur={[Function]}
+        onChange={[Function]}
+        placeholder="Email"
+        value=""
+      />
+      <div />
+    </div>
+    <div
+      className="field"
+    >
+      <label>
+        Address
+      </label>
+      <input
+        id="address"
+        name="address"
+        onBlur={[Function]}
+        onChange={[Function]}
+        placeholder="Address"
+        value=""
+      />
+      <div />
+    </div>
+    <div
+      className="field"
+    >
+      <label>
+        Birthdate
+      </label>
+      <input
+        id="birthdate"
+        name="birthdate"
+        onBlur={[Function]}
+        onChange={[Function]}
+        placeholder="Birthdate"
+        type="date"
+        value=""
+      />
+    </div>
+  </div>
+  <div
+    className="ui divider"
+  />
+  <div
+    className="row"
+  >
+    <button
+      className="ui disabled button"
+      disabled={true}
+      onClick={[Function]}
+      tabIndex={-1}
+      type="button"
+    >
+      Preview
+    </button>
+    <button
+      className="ui button"
+      onClick={[Function]}
+      type="button"
+    >
+      Next
+    </button>
+  </div>
+</form>
+`;
+
+exports[`Test Links 3`] = `
+<form
+  className="ui form"
+  onSubmit={[Function]}
+>
+  <div
+    className="ui container"
+  >
+    <h2
+      className="ui header"
+    >
+      Personal Information
+    </h2>
+    <div
+      className="field"
+    >
+      <label>
+        First Name
+      </label>
+      <input
+        id="firstName"
+        name="firstName"
+        onBlur={[Function]}
+        onChange={[Function]}
+        placeholder="First Name"
+        value=""
+      />
+      <div />
+    </div>
+    <div
+      className="field"
+    >
+      <label>
+        Last Name
+      </label>
+      <input
+        id="lastName"
+        name="lastName"
+        onBlur={[Function]}
+        onChange={[Function]}
+        placeholder="Last Name"
+        value=""
+      />
+      <div />
+    </div>
+    <div
+      className="field"
+    >
+      <label>
+        Email
+      </label>
+      <input
+        id="email"
+        name="email"
+        onBlur={[Function]}
+        onChange={[Function]}
+        placeholder="Email"
+        value=""
+      />
+      <div />
+    </div>
+    <div
+      className="field"
+    >
+      <label>
+        Address
+      </label>
+      <input
+        id="address"
+        name="address"
+        onBlur={[Function]}
+        onChange={[Function]}
+        placeholder="Address"
+        value=""
+      />
+      <div />
+    </div>
+    <div
+      className="field"
+    >
+      <label>
+        Birthdate
+      </label>
+      <input
+        id="birthdate"
+        name="birthdate"
+        onBlur={[Function]}
+        onChange={[Function]}
+        placeholder="Birthdate"
+        type="date"
+        value=""
+      />
+    </div>
+  </div>
+  <div
+    className="ui divider"
+  />
+  <div
+    className="row"
+  >
+    <button
+      className="ui disabled button"
+      disabled={true}
+      onClick={[Function]}
+      tabIndex={-1}
+      type="button"
+    >
+      Preview
+    </button>
+    <button
+      className="ui button"
+      onClick={[Function]}
+      type="button"
+    >
+      Next
+    </button>
+  </div>
+</form>
+`;
